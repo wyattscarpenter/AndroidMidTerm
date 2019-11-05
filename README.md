@@ -38,6 +38,7 @@
 - For this project you will need to display the random number gotten from your websites 
 - One method for this is to use Volley to make GET requests. 
   - You can find out how to use it here https://developer.android.com/training/volley/request
+  - This repository also has example code using Volley to connect to the OU calendar
 - In order to make GET request to your website you will need to make endpoints
   - You can find out how to make endpoints for an app engine here: https://cloud.google.com/endpoints/docs/openapi/get-started-app-engine-standard
   - You can find out hot to make endpoints for a compute engine here: https://cloud.google.com/endpoints/docs/openapi/get-started-compute-engine-docker
