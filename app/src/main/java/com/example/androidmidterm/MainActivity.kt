@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
         // Volley uses internet permissions which needs to be enabled in the AndroidManifest.xml
         val queue = Volley.newRequestQueue(this)
-        
+
         // OU Calendar url
         // TODO: change this to your url after you have endpoints
         val url = "https://calendar.ou.edu/live/json/events"
