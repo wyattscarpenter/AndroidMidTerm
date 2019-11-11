@@ -41,4 +41,4 @@
   - This repository also has example code using Volley to connect to the OU calendar
 - In order to make GET request to your website you will need to make endpoints
   - You can find out how to make endpoints for an app engine here: https://cloud.google.com/endpoints/docs/openapi/get-started-app-engine-standard
-  - You can find out hot to make endpoints for a compute engine here: https://cloud.google.com/endpoints/docs/openapi/get-started-compute-engine-docker
+  - You can find out how to make endpoints for a compute engine here: https://cloud.google.com/endpoints/docs/openapi/get-started-compute-engine-docker
