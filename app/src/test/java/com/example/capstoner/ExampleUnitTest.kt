@@ -1,4 +1,4 @@
-package com.example.androidmidterm
+package com.example.capstoner
 
 import org.junit.Test
 
